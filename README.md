@@ -33,4 +33,10 @@ Time:- Used to calculate FPS (Frames per Second).
 
 
 ![image](https://user-images.githubusercontent.com/40985556/171316243-948f33df-bfa4-4fd2-a8cb-e141272b9cbb.png)
+![image](https://user-images.githubusercontent.com/40985556/171316314-d08f62db-c7c0-459d-90c5-7baa2daf387e.png)
+![image](https://user-images.githubusercontent.com/40985556/171316346-10441a8c-fd7e-4ddd-9b19-c055184bd362.png)
+![image](https://user-images.githubusercontent.com/40985556/171316357-259c2939-ee89-4bbf-b8d8-5280e0cfa507.png)
+
+
+
 
