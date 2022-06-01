@@ -32,4 +32,5 @@ Numpy :- Numpy is used to perform certain mathematical calculations and for work
 Time:- Used to calculate FPS (Frames per Second).
 
 
+![image](https://user-images.githubusercontent.com/40985556/171316243-948f33df-bfa4-4fd2-a8cb-e141272b9cbb.png)
 
